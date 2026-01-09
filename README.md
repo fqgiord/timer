@@ -4,6 +4,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 🌐 Demo ao Vivo
+
+🔗 **[Ver Projeto Online](https://fqgiord.github.io/timer/)**
+
+
 ## 📋 Sobre o Projeto
 
 Aplicativo web de timer e player de música para auxiliar em sessões de foco e relaxamento. O projeto utiliza técnicas de manipulação do DOM com JavaScript para criar uma experiência interativa e agradveál ao usuário.
